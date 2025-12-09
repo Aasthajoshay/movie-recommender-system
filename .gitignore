@@ -40,3 +40,6 @@ Thumbs.db
 # Streamlit
 .streamlit/
 
+# Large generated files (can be regenerated)
+similarity.pkl
+
